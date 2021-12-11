@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nayanace
 - 👀 I’m interested in ... Devops 
-- 🌱 I’m currently learning ... Github,Linux,AWS.
+- 🌱 I’m currently learning ... Github,Linux,AWS,Jenkins,Maven,Tomcat,Docker,K8s
 - 💞️ I’m looking to collaborate on ... Nothing 
 - 📫 How to reach me ...@Nayanace
 
